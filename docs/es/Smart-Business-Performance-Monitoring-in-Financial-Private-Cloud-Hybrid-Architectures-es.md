@@ -1,4 +1,16 @@
-**Caso de Usuario: Monitoreo Inteligente de Rendimiento en Negocios con Arquitectura Híbrida de Nube Privada Financiera**
+# Caso de Usuario: Monitoreo Inteligente de Rendimiento en Negocios con Arquitectura Híbrida de Nube Privada Financiera
+
+**Other Languages**
+
++ [Chinese / 中文](/docs/zh/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-zh.md)
++ [English](/docs/en/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-en.md)
++ [Spanish / español / castellano](/docs/es/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-es.md)
++ [Japanese / 日本語](/docs/ja/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ja.md)
++ [German / Deutsch](/docs/de/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-de.md)
++ [French / français](/docs/fr/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-fr.md)
++ [Arabic / al arabiya / العربية](/docs/ar/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ar.md)
++ [Portuguese (Portugal)](/docs/pt/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-pt.md)
+
 
 Como pilar central de los sistemas de información, la infraestructura TI de las instituciones financieras enfrenta el doble reto de la transformación digital y la independencia tecnológica. La nube privada financiera emerge como una solución preferente para estos desafíos.
 Recientemente, un banco comercial ha apostado por fortalecer su nube privada, viéndola como un catalizador para los negocios potenciados por fintech. En colaboración con líderes en servicios de nube, han explorado conjuntamente infraestructura de nube financiera, innovación en servicios financieros y desarrollo de sistemas de negocio basados en la nube. Este esfuerzo conjunto ha facilitado la implementación de la arquitectura tecnológica de la nube privada del banco, permitiendo la migración continua de sistemas críticos a esta plataforma. Los beneficios son notorios: mejor capacidad de respuesta en servicios, optimización de costes y seguridad mejorada. Sin embargo, estos avances también presentan nuevos desafíos en la gestión y operación:
