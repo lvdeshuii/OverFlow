@@ -1,4 +1,16 @@
-**ユーザーケース：金融プライベートクラウドハイブリッドアーキテクチャにおけるインテリジェントビジネスパフォーマンスモニタリング**
+# ユーザーケース：金融プライベートクラウドハイブリッドアーキテクチャにおけるインテリジェントビジネスパフォーマンスモニタリング
+
+**Other Languages**
+
++ [Chinese / 中文](/docs/zh/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-zh.md)
++ [English](/docs/en/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-en.md)
++ [Spanish / español / castellano](/docs/es/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-es.md)
++ [Japanese / 日本語](/docs/ja/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ja.md)
++ [German / Deutsch](/docs/de/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-de.md)
++ [French / français](/docs/fr/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-fr.md)
++ [Arabic / al arabiya / العربية](/docs/ar/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ar.md)
++ [Portuguese (Portugal)](/docs/pt/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-pt.md)
+
 
 情報システム運用の核心基盤として、金融機関のITインフラはデジタル変革と技術独立の二重の挑戦に直面しています。これに対応するため、金融プライベートクラウドは金融機関にとって魅力的な選択肢となっています。最近、ある都市銀行は、金融テクノロジーを活用したビジネスモデルとしてプライベートクラウドの開発に注力しており、金融クラウド基盤設備・サービス、シナリオベースの金融イノベーション、クラウドネイティブビジネスシステム開発などの分野で先進クラウドプロバイダーと共に研究・技術開発を進めています。これにより、重要なビジネスシステムを継続的に金融プライベートクラウドに配置または移行させることができました。この取り組みは、ビジネスの迅速な対応能力、リソースコストの最適化、セキュリティ性能の向上など、多くの利点をもたらしました。しかし、運用管理にも新たな挑戦をもたらしています。
 
