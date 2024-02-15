@@ -1,4 +1,4 @@
-**Benutzerfall: Intelligente Leistungsüberwachung im Finanzsektor mit Hybrid-Cloud-Technologie**
+# Benutzerfall: Intelligente Leistungsüberwachung im Finanzsektor mit Hybrid-Cloud-Technologie
 
 **Other Languages**
 
