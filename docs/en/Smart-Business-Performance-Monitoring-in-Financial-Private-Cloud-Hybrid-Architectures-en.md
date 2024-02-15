@@ -1,5 +1,16 @@
 # User Case: Smart Business Performance Monitoring in Financial Private Cloud Hybrid Architectures
 
+**Other Languages**
+
++ [Chinese / 中文](/docs/zh/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-zh.md)
++ [English](/docs/en/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-en.md)
++ [Spanish / español / castellano](/docs/es/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-es.md)
++ [Japanese / 日本語](/docs/ja/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ja.md)
++ [German / Deutsch](/docs/de/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-de.md)
++ [French / français](/docs/fr/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-fr.md)
++ [Arabic / al arabiya / العربية](/docs/ar/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ar.md)
++ [Portuguese (Portugal)](/docs/pt/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-pt.md)
+
 As the foundational platform supporting the operation of information systems, financial institutions' IT infrastructures face the twin challenges of digital transformation and technological autonomy. Consequently, the financial private cloud has emerged as a preferred solution for many financial institutions to address these challenges.
 In recent years, a city commercial bank has dedicated itself to the vigorous development of private clouds as a new embodiment of fintech-enabled business. It has partnered with leading cloud service providers for joint research and breakthroughs in financial cloud infrastructure and services, financial scenario innovation, and the development of cloud-native business systems, collaboratively advancing the deployment of the bank's financial private cloud technology architecture. This strategy of consistently deploying or migrating critical business systems to the financial private cloud has yielded numerous benefits, such as enhanced business agility, cost optimization, and improved security. However, it has also introduced significant challenges to operational management, including:
 
