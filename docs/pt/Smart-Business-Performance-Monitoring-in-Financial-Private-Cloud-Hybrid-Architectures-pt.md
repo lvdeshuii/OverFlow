@@ -1,4 +1,16 @@
-**Caso de Uso: Monitoramento Inteligente de Desempenho de Negócios em Arquitetura Híbrida de Nuvem Privada no Setor Financeiro**
+# Caso de Uso: Monitoramento Inteligente de Desempenho de Negócios em Arquitetura Híbrida de Nuvem Privada no Setor Financeiro
+
+**Other Languages**
+
++ [Chinese / 中文](/docs/zh/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-zh.md)
++ [English](/docs/en/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-en.md)
++ [Spanish / español / castellano](/docs/es/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-es.md)
++ [Japanese / 日本語](/docs/ja/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ja.md)
++ [German / Deutsch](/docs/de/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-de.md)
++ [French / français](/docs/fr/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-fr.md)
++ [Arabic / al arabiya / العربية](/docs/ar/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ar.md)
++ [Portuguese (Portugal)](/docs/pt/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-pt.md)
+
 No coração das operações dos sistemas de informação, as infraestruturas de TI das instituições financeiras estão diante de desafios significativos devido à transformação digital e à busca por independência tecnológica. A solução? Muitas estão virando para a nuvem privada financeira como estratégia para encarar essas questões.
 Recentemente, um banco comercial específico apostou na nuvem privada como a nova fronteira para potencializar os negócios com a tecnologia financeira. Em colaboração com fornecedores de nuvem de ponta, esse banco mergulhou em pesquisa e desenvolvimento conjunto em áreas como infraestrutura de nuvem financeira e serviços, inovação em finanças de cenário e desenvolvimento de sistemas de negócios com tecnologia cloud-native. O esforço conjunto visa solidificar a arquitetura tecnológica da nuvem privada financeira do banco. A migração e implantação contínuas de sistemas críticos para a nuvem privada financeira já renderam benefícios notáveis, como melhoria na resposta aos negócios,
 
