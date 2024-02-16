@@ -1,15 +1,17 @@
 # حالة استخدام: المراقبة الذكية لأداء الأعمال ضمن بنية تحتية سحابية خاصة مختلطة في القطاع المال
 
+
 **Other Languages**
 
-+ [Chinese / 中文](/docs/zh/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-zh.md)
-+ [English](/docs/en/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-en.md)
-+ [Spanish / español / castellano](/docs/es/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-es.md)
-+ [Japanese / 日本語](/docs/ja/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ja.md)
-+ [German / Deutsch](/docs/de/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-de.md)
-+ [French / français](/docs/fr/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-fr.md)
-+ [Arabic / al arabiya / العربية](/docs/ar/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ar.md)
-+ [Portuguese (Portugal)](/docs/pt/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-pt.md)
++ [Chinese / 中文](https://github.com/lvdeshuii/OverFlow/blob/main/docs/zh/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-zh.md)
++ [English](https://github.com/lvdeshuii/OverFlow/blob/main/docs/en/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-en.md)
++ [Spanish / español / castellano](https://github.com/lvdeshuii/OverFlow/blob/main/docs/es/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-es.md)
++ [Japanese / 日本語](https://github.com/lvdeshuii/OverFlow/blob/main/docs/ja/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ja.md)
++ [German / Deutsch](https://github.com/lvdeshuii/OverFlow/blob/main/docs/de/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-de.md)
++ [French / français](https://github.com/lvdeshuii/OverFlow/blob/main/docs/fr/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-fr.md)
++ [Arabic / al arabiya / العربية](https://github.com/lvdeshuii/OverFlow/blob/main/docs/ar/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ar.md)
++ [Portuguese (Portugal)](https://github.com/lvdeshuii/OverFlow/blob/main/docs/pt/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-pt.md)
+
 
 
 تشكل البنية التحتية لتكنولوجيا المعلومات في المؤسسات المالية العمود الفقري الذي ترتكز عليه أنظمة المعلومات. نظرًا للتحديات المتزايدة الناشئة عن التحول الرقمي والاستقلالية التكنولوجية، برزت السحابات الخاصة المالية كحل مفضل لهذه المؤسسات لمواجهة هذه التحديات. في الآونة الأخيرة، أولى أحد البنوك المحلية اهتمامًا كبيرًا لتطوير السحابة الخاصة كطريقة جديدة لتعزيز قدرات الأعمال المالية التكنولوجية من خلال التعاون مع مزودي السحابات الرائدين في مجالات مثل بنية السحابة المالية والخدمات، الابتكارات المالية الموجهة نحو السيناريوهات، وتطوير نظم الأعمال الأصلية للسحابة، مما أدى إلى تطبيق ناجح لبنية السحابة الخاصة المالية. بفضل هذا التحول، تمكن البنك من نقل أنظمة الأعمال الرئيسية إلى السحابة الخاصة بشكل مستمر، محققًا فوائد عدة مثل تحسين استجابة الأعمال، تحسين كفاءة الموارد، وتعزيز الأمان. ومع ذلك، جلب هذا التحول أيضًا تحديات كبيرة لإدارة وصيانة النظم.
