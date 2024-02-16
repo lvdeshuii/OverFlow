@@ -1,15 +1,17 @@
 # 用户案例：金融私有云混合架构下的智能业务性能监控
 
+
 **Other Languages**
 
-+ [Chinese / 中文](/docs/zh/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-zh.md)
-+ [English](/docs/en/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-en.md)
-+ [Spanish / español / castellano](/docs/es/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-es.md)
-+ [Japanese / 日本語](/docs/ja/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ja.md)
-+ [German / Deutsch](/docs/de/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-de.md)
-+ [French / français](/docs/fr/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-fr.md)
-+ [Arabic / al arabiya / العربية](/docs/ar/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ar.md)
-+ [Portuguese (Portugal)](/docs/pt/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-pt.md)
++ [Chinese / 中文](https://github.com/lvdeshuii/OverFlow/blob/main/docs/zh/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-zh.md)
++ [English](https://github.com/lvdeshuii/OverFlow/blob/main/docs/en/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-en.md)
++ [Spanish / español / castellano](https://github.com/lvdeshuii/OverFlow/blob/main/docs/es/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-es.md)
++ [Japanese / 日本語](https://github.com/lvdeshuii/OverFlow/blob/main/docs/ja/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ja.md)
++ [German / Deutsch](https://github.com/lvdeshuii/OverFlow/blob/main/docs/de/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-de.md)
++ [French / français](https://github.com/lvdeshuii/OverFlow/blob/main/docs/fr/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-fr.md)
++ [Arabic / al arabiya / العربية](https://github.com/lvdeshuii/OverFlow/blob/main/docs/ar/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ar.md)
++ [Portuguese (Portugal)](https://github.com/lvdeshuii/OverFlow/blob/main/docs/pt/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-pt.md)
+
   
 作为承载信息系统运行的核心底座，金融机构的IT基础设施也因此面临着来自数字化转型和技术自主的双重挑战，而金融私有云也渐渐成为了各金融机构应对挑战的选择之一。
 近年来，某城商行致力于大力发展私有云作为金融科技赋能业务的新形态，联合先进的云厂商在金融云基础设施及服务、场景金融创新、云原生业务系统开发等领域开展联合研究与技术攻关，共同推进该城商行金融私有云技术架构的落地。最终，持续地将重要业务系统部署或者迁移到金融私有云上。此举已经带来了诸多的益处，比如：业务响应能力的提升、资源成本的优化、安全性能的提升等等，但同时也给运维管理带来了不小的挑战。
