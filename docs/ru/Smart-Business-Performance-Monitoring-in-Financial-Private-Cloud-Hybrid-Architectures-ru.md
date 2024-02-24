@@ -11,7 +11,7 @@
 + [French / français](https://github.com/lvdeshuii/OverFlow/blob/main/docs/fr/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-fr.md)
 + [Arabic / al arabiya / العربية](https://github.com/lvdeshuii/OverFlow/blob/main/docs/ar/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ar.md)
 + [Portuguese (Portugal)](https://github.com/lvdeshuii/OverFlow/blob/main/docs/pt/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-pt.md)
-+ [Russian / Русский язык](https://github.com/lvdeshuii/OverFlow/blob/main/docs/pt/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ru.md)
++ [Russian / Русский язык](https://github.com/lvdeshuii/OverFlow/blob/main/docs/ru/Smart-Business-Performance-Monitoring-in-Financial-Private-Cloud-Hybrid-Architectures-ru.md)
 
 В основе работы информационных систем лежит ИТ-инфраструктура финансовых организаций, которая сталкивается с вызовами, связанными с цифровой трансформацией и стремлением к технологической независимости. В этом контексте частное облако становится популярным решением среди финансовых институтов.
 
