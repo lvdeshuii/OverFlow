@@ -64,7 +64,6 @@ Para los sistemas críticos de atención al público, se generan informes person
 
 Los productos Netis ofrecen un análisis exhaustivo de la tecnología IPv6, garantizando la estabilidad de los servicios IPv6 de los clientes.
 
-Esta versión busca simplificar y hacer más accesible la información, explicando de forma más clara los conceptos técnicos y manteniendo la fidelidad al contenido original. Se enfoca en la utilidad práctica de las tecnologías mencionadas, haciéndolas más comprensibles para un público amplio.
 ***
 At Netis, we're at the forefront of analyzing business(APM) and network performance(NPM), ensuring that over thirty billion transactions run smoothly every day. Our commitment to system and data security is paramount, and we pride ourselves on our ability to conduct real-time analysis through network traffic mirroring. This means we can get the job done without the need for any agents or disruptions to your existing operations. Based in Shanghai, China, Netis is a global software company known for its high-performance products and cost-effective solutions. Interested in what we offer? Don't hesitate to get in touch. We're excited about the possibility of working together and welcoming new partners.  
 Discover more at: www.netis.com/en/  
