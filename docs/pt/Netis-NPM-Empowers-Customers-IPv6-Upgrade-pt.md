@@ -54,7 +54,9 @@ Num ponto de acesso crucial à internet, um banco inovou com o uso do grande ecr
 *Figura 6: Visão Geral no Grande Ecrã do Netis NPM*
 
 Para os sistemas de serviços críticos ao público, o banco desenvolveu um sistema de relatórios personalizados - diários, semanais e mensais - que são enviados aos reguladores conforme a necessidade surge, garantindo assim transparência e conformidade.
+
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/o672k3fsicq3hHmITGktAGic9O31RicFkrdIngXzdI72uJ9mrwpx0LHnmpWslsam5qu2s1R5ADQDcTos941Xz4vXg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
 *Figura 7: Exemplo de Relatório Semanal para Serviços Críticos*
 
 A gama de produtos da Netis está totalmente equipada para suportar a análise de serviços IPv6, assegurando que os negócios dos clientes se mantenham estáveis e eficientes sob este novo protocolo.
