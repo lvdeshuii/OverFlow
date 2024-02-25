@@ -59,6 +59,7 @@ En el acceso a Internet, un banco ha implementado un display avanzado de NetisNP
 
 Para los sistemas críticos de atención al público, se generan informes personalizados (diarios, semanales, mensuales) que se presentan ante los organismos reguladores según los requerimientos.
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/o672k3fsicq3hHmITGktAGic9O31RicFkrdIngXzdI72uJ9mrwpx0LHnmpWslsam5qu2s1R5ADQDcTos941Xz4vXg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
 *Figura 7: Informe semanal de sistemas críticos*
 
 Los productos Netis ofrecen un análisis exhaustivo de la tecnología IPv6, garantizando la estabilidad de los servicios IPv6 de los clientes.
