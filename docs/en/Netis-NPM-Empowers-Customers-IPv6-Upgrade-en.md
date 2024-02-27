@@ -56,6 +56,7 @@ At the gateway to the internet, one bank has leveraged the professional capabili
 
 For critical services accessible to the public, the bank designs detailed reports on a daily, weekly, and monthly basis, tailoring these insights to meet the demands of oversight bodies.
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/o672k3fsicq3hHmITGktAGic9O31RicFkrdIngXzdI72uJ9mrwpx0LHnmpWslsam5qu2s1R5ADQDcTos941Xz4vXg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
 *Figure 7: Weekly Insights for Key Services*
 
 Netis's suite of products offers robust support for IPv6 analysis, playing a key role in maintaining the reliability and stability of IPv6-based services for their clients.
