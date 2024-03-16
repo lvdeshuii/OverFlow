@@ -17,9 +17,8 @@ Wie schafft man es in einer Welt voller Monitoring-Tools, Komplexität zu reduzi
 
 ### **1. Der geschäftsorientierte Monitoring-Ansatz**
 
-Die Alarmlogik von Tools zur Überwachung der Anwendungsperformance unterscheidet sich, basierend auf den Differenzen zwischen Überwachungskriterien und -zielen, signifikant. Generell teilt man sie in zwei Hauptansätze auf: den "Bottom-up"-Alarm, der Alarme auf Basis von niedrigstufigen Daten wie Datenpaketen setzt und sich dann zu höheren Ebenen wie der Nutzung von Anwendungen und Diensten vorarbeitet, um schließlich Probleme wie DNS-Fehler oder langsame Reaktionszeiten zu identifizieren. Dem gegenüber steht der "Top-down"-Alarm, der durch Monitoring der geschäftskritischen Anwendungs
-
-- und Netzwerkknoten auf höherstufigen Aggregatdaten basiert und von oberflächlichen Geschäftsproblemen aus tiefer in die Datenebene eindringt. Da "Bottom-up"-Alarme oft zeitaufwendig und unpräzise sind, zeichnen sich "Top-down"-Alarme durch ihre Fähigkeit aus, bei System- oder Serviceausfällen sofort zu alarmieren, was sie zu einem unverzichtbaren Werkzeug in einem geschäftsorientierten IT-Operations-Framework macht.
+Die Alarmlogik von Tools zur Überwachung der Anwendungsperformance unterscheidet sich, basierend auf den Differenzen zwischen Überwachungskriterien und -zielen, signifikant. Generell teilt man sie in zwei Hauptansätze auf: den "Bottom-up"-Alarm, der Alarme auf Basis von niedrigstufigen Daten wie Datenpaketen setzt und sich dann zu höheren Ebenen wie der Nutzung von Anwendungen und Diensten vorarbeitet, um schließlich Probleme wie DNS-Fehler oder langsame Reaktionszeiten zu identifizieren. Dem gegenüber steht der "Top-down"-Alarm, der durch Monitoring der geschäftskritischen Anwendungs und Netzwerkknoten auf höherstufigen Aggregatdaten basiert und von oberflächlichen Geschäftsproblemen aus tiefer in die Datenebene eindringt. Da "Bottom-up"-Alarme oft zeitaufwendig und unpräzise sind, zeichnen sich "Top-down"-Alarme durch ihre Fähigkeit aus, bei System- oder Serviceausfällen sofort zu alarmieren, was sie zu einem unverzichtbaren Werkzeug in einem geschäftsorientierten IT-Operations-Framework macht.
+  
 ![002316seeudyfefdc8nldk.jpg](http://image.sciencenet.cn/album/201306/28/002316seeudyfefdc8nldk.jpg)
 
 *Abbildung 1: Wissenshierarchie-Diagramm*
