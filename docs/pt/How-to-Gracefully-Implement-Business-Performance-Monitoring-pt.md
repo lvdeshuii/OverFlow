@@ -46,6 +46,7 @@ A equipe da Netis descobriu uma correlação direta entre o volume de transaçõ
 A chave para um design que coloca o usuário em primeiro lugar é como esses pilares são apresentados de forma que sejam imediatamente compreensíveis, elevando assim a experiência do usuário. Após uma série de análises, experimentações e testes, nasceu o inovador quadrante da Netis, uma primazia no setor.
 
 Essa ideia inovadora surgiu de uma visita ao Museu de Arte Moderna de Nova York feita por Wizard, cofundador e CPO da Netis. Lá, um mapa que delineava informações geográficas e populacionais dos EUA, disposto em uma grade simples, inspirou a criação do quadrante. Este formato não só facilitava a compreensão das informações, mas também se alinhava perfeitamente com a estrutura de componentes de aplicativos e redes. O insight foi que a eficácia na transmissão de informações cruciais reside na precisão, não na quantidade. Essa perspectiva foi reforçada pela observação de placas de sinalização e orientação comuns no cotidiano, culminando na concepção do emblemático quadrante.
+
 ![图片](https://mmbiz.qpic.cn/mmbiz_jpg/o672k3fsicq0zib9UrUva92PkicX1HbHqyo8icuiaU00eVBRmcY23lm9lq2fzViaRNFP7DiaiccI3GpszkEpyQFMf4TEQw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 
 *Figura 3: O Quadrante Icônico do Museu de Arte Moderna de Nova York:*
