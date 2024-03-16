@@ -18,6 +18,7 @@
 ### **1. Une perspective de monitoring axée sur le business**
 
 Face à la diversité entre les indicateurs de surveillance et les objectifs de monitoring, les logiques d'alerte des solutions de surveillance de la performance applicative diffèrent aussi. On les classe généralement en deux types : les alertes dites "ascendantes", qui établissent des points d'alerte à partir de données de base telles que les headers des paquets, avant de remonter vers l'analyse de l'utilisation des applications et des services, pour finalement identifier les anomalies (comme des erreurs DNS ou des lenteurs de réponse). À l'opposé, les alertes "descendantes" se basent sur le monitoring des nœuds applicatifs et de certains nœuds réseau, fixant des critères d'alerte sur des données agrégées de haut niveau pour plonger ensuite dans l'analyse des données fondamentales. Les alertes ascendantes, avec leur volume élevé de fausses alertes et leur complexité de diagnostic, sont non seulement chronophages mais également peu précises. En revanche, le réglage des alertes descendantes permet une alerte rapide en cas de défaillance, jouant un rôle crucial dans une architecture opérationnelle centrée sur le business.
+
 ![002316seeudyfefdc8nldk.jpg](http://image.sciencenet.cn/album/201306/28/002316seeudyfefdc8nldk.jpg)
 
 *Figure 1 : Schéma des niveaux de connaissance*
@@ -27,6 +28,7 @@ Netis BPC privilégie une approche de surveillance "descendante", offrant une vu
 ### **2. Un design pensé pour l'utilisateur**
 
 Imaginer le temps sous forme de touches de piano et résumer les indicateurs clés d'affaires dans un carré à quatre segments constituent la quintessence du design de Netis BPC.
+
 ![图片](https://mmbiz.qpic.cn/mmbiz_gif/o672k3fsicq0zib9UrUva92PkicX1HbHqyo1rZQMYRmK4Yfiambegqu7bWA3usmGboVBg1Ziav7DHAmztEEPeSWuh7Q/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
 
 *Figure 2 : Les touches de piano et le carré à quatre segments, au cœur de la gestion des alertes et du diagnostic chez Netis BPC*
@@ -46,6 +48,7 @@ Les spécialistes produits chez Netis ont établi un lien direct entre le volume
 Face au défi de présenter ces quatre indicateurs essentiels de façon intuitive et évidente pour enrichir l'expérience utilisateur, l'équipe de Netis a entrepris un processus approfondi d'analyse, d'hypothèses, de tests et de validation, qui a abouti à l'innovation sectorielle du carré à quatre fenêtres.
 
 L'idée du carré à quatre fenêtres a germé lors d'une visite au Musée d'Art Moderne de New York par Wizard, co-fondateur et chef produit chez Netis. Une exposition montrait une carte des États-Unis, illustrant des données géographiques et démographiques de manière claire grâce à un agencement en cases, qui évoquait les concepts de composants d'application et de réseau. Cette approche a révélé que l'essence de la transmission d'informations cruciales ne réside pas dans l'abondance des données, mais dans la précision avec laquelle les observateurs peuvent en extraire les éléments vitaux. Cette révélation, couplée à l'observation quotidienne des panneaux d'information, des signalétiques autoroutières et des icônes de guidage, a conduit à la conception du carré à quatre fenêtres, combinant efficacement le besoin d'accès rapide à l'information d'alerte avec la réalité de l'IT contemporain.
+
 ![图片](https://mmbiz.qpic.cn/mmbiz_jpg/o672k3fsicq0zib9UrUva92PkicX1HbHqyo8icuiaU00eVBRmcY23lm9lq2fzViaRNFP7DiaiccI3GpszkEpyQFMf4TEQw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 
 *Figure 3 : Le carré à quatre fenêtres emblématique du Musée d'Art Moderne de New York :*
