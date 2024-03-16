@@ -18,6 +18,7 @@
 ### **1. Enfocándonos en el negocio para una mejor monitorización**
 
 Las herramientas de monitorización del rendimiento de aplicaciones tienen diferentes lógicas de alerta debido a las variadas necesidades y objetivos. Podemos clasificar estas lógicas de alerta principalmente en dos enfoques: el primero es el enfoque "de abajo hacia arriba", que empieza con la detección de anomalías en datos fundamentales, como los encabezados de paquetes, para luego escalar hasta analizar la utilización de aplicaciones y servicios, identificando finalmente problemas específicos en los negocios, como errores DNS o lentitud en las respuestas. El segundo enfoque es el "de arriba hacia abajo", que comienza por monitorear los aspectos críticos de los negocios y la red para establecer indicadores de alerta basados en datos agregados, permitiendo una rápida detección de problemas desde una perspectiva empresarial superior. Las alertas "de abajo hacia arriba" suelen ser tediosas y propensas a errores debido a la dificultad de filtrar falsas alarmas, mientras que las "de arriba hacia abajo" ofrecen una manera rápida y precisa de identificar fallos críticos, siendo cruciales en un entorno operativo que prioriza el negocio.
+
 ![002316seeudyfefdc8nldk.jpg](http://image.sciencenet.cn/album/201306/28/002316seeudyfefdc8nldk.jpg)
 
 *Figura 1: Jerarquía del Conocimiento*
