@@ -60,4 +60,4 @@ A essÃªncia dos produtos BPC reside na captura precisa das necessidades dos usuÃ
 ***
 Netis specializes in Business Performance Analysis (BPC) and Network Performance Monitoring (NPM). Each day, our transaction monitoring solutions ensure the smooth completion of over 30 billion transactions. We prioritize the security and autonomy of systems and data. Utilizing real-time analysis through network traffic mirroring, we ensure zero intrusion into business operations, without the need for any agent installations. Headquartered in Shanghai, China, Netis is a global software company renowned for its high-performance, cost-effective products. If you're interested in our offerings, please don't hesitate to reach out. We eagerly await your trial and partnership.  
 For further details, visit: www.netis.com/en/  
-Contact me via email at: dennis.li@netis.com
+Contact me via email at: Marketing@netis.com
